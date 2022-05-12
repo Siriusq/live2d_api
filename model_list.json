@@ -1,8 +1,12 @@
 {
     "models": [
-        "tororo"
+        "tororo",
+        "hijiki",
+        "Potion-Maker/Pio"
     ],
     "messages": [
-        "喵~"
+        "你好喵~ 我是Tororo，一只小猫咪的喵~",
+        "你好喵~ 我是Hijiki，另一只小猫咪的喵~",
+        "你好~，我是来自 Potion Maker 的 Pio 酱 ~"
     ]
 }
